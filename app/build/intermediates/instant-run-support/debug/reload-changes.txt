@@ -1,0 +1,3 @@
+CHANGED,E:\Sem 4\SimpleExpenseManager-master\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\lk\ac\mrt\cse\dbs\simpleexpensemanager\ui\ManageExpensesFragment$1$override.class
+CHANGED,E:\Sem 4\SimpleExpenseManager-master\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\lk\ac\mrt\cse\dbs\simpleexpensemanager\ui\ManageExpensesFragment$override.class
+CHANGED,E:\Sem 4\SimpleExpenseManager-master\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
